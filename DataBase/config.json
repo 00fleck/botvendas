@@ -1,0 +1,14 @@
+{
+    "canal_logs":"CANAL DE LOGS ",
+    "categoria_carrinho":"CATEGORIA DO CARRINHO VAI SER ABERTO",
+    "cargo":"CARGO QUE O CARA VAI RECEBER QUANDO FOR APROVADO",
+    "cargoperm":"CARGO Q VAI CONSEGUIR VER O CARRINHO",
+    "pix": {
+        "chave_pix":"SUA CHAVE PIX",
+        "qrcode":"COLOCA UMA URL DE QRCODE VALIDA"
+    },
+    "termos":"COLOQUE SEUS TERMOS DE COMPRA QUE VAI APARECER NO CARRINHO",
+    "owner":"SEU ID "   
+}
+
+// se não colocar o seu id não será aceito as configurações no bot ele não vai aceitar mesmo que você seja o dono do discord.
